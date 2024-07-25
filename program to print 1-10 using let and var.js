@@ -1,4 +1,4 @@
-
+# What do we get if we print 1-10 using both let and var along with setTimeout function
 
 const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
