@@ -1,2 +1,2 @@
 # javascript-scenarios
-I will be adding as the time progress.
+I will be adding more as the time progress.
