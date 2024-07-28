@@ -1,4 +1,4 @@
-// Write the code given If two strings are anagrams of one another, then return true.
+// Write the code given If two strings are anagrams of one another, then return true else false.
 
 var str1 = "Guru";
 var str2 = "Shiva";
