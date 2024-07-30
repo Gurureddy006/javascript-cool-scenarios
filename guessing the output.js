@@ -1,3 +1,5 @@
+// This a good example for basic understanding of how operators work.
+
 function runFunc(){
     console.log("1" + 1);
     console.log("A" - 1);
